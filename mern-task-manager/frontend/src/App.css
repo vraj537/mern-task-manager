@@ -1,0 +1,32 @@
+.container {
+  max-width: 500px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+.form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+input {
+  flex: 1;
+  padding: 8px;
+}
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+.task-list li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+.completed span {
+  text-decoration: line-through;
+  color: gray;
+}
