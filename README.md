@@ -63,7 +63,7 @@ mern-task-manager/
 
 ## 👨‍💻 Author
 Made by Vraj Rathod
-GitHub: https://github.com/vraj537
+
 
 ---
 
